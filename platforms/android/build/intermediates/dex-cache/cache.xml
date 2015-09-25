@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/deepak/www/push_app/node_modules/nativescript-push-notifications/node_modules/nativescript-plugin-google-play-services/platforms/android/google-play-services_lib/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d5f3fa25437d7d8ffdfb1a0f251adf682f14649">
+        <dex dex="/home/deepak/www/push_app/platforms/android/build/intermediates/pre-dexed/debug/google-play-services-02a9c422f38041ff48ce65f5f4450ad59eebc31c.jar" />
+    </item>
+    <item
+        jar="/home/deepak/www/push_app/platforms/android/libs/widgets.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dab3994e6354b233885a2834673e6fc968347762">
+        <dex dex="/home/deepak/www/push_app/platforms/android/build/intermediates/pre-dexed/debug/widgets-2895fc1d043b155d722f3de1546d8b5163f888dd.jar" />
+    </item>
+    <item
+        jar="/home/deepak/www/push_app/node_modules/nativescript-push-notifications/platforms/android/libs/pushplugin.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a004b47106a2ef3d75fb62845912a118d234582">
+        <dex dex="/home/deepak/www/push_app/platforms/android/build/intermediates/pre-dexed/debug/pushplugin-cd7ced59ba484fcde665974fc03782673dd4097d.jar" />
+    </item>
+    <item
+        jar="/home/deepak/www/android/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/deepak/www/push_app/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-67b92f4bbeb1146320157c58086ba755f49da046.jar" />
+    </item>
+    <item
+        jar="/home/deepak/www/push_app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/deepak/www/push_app/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-65c2d605546a7de30be0e7ba50937ea8578b7d48.jar" />
+    </item>
+    <item
+        jar="/home/deepak/www/push_app/platforms/android/libs/nativescript.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="67b373dcc4118eeaa58a606b21684f016f79d1b0">
+        <dex dex="/home/deepak/www/push_app/platforms/android/build/intermediates/pre-dexed/debug/nativescript-b49d4ac274bb1a7db293574b335522f308587540.jar" />
+    </item>
+    <item
+        jar="/home/deepak/www/push_app/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/deepak/www/push_app/platforms/android/build/intermediates/pre-dexed/debug/classes-31d24a929d358ec8c13a4d9433c8df18cf5ce145.jar" />
+    </item>
+    <item
+        jar="/home/deepak/www/push_app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/deepak/www/push_app/platforms/android/build/intermediates/pre-dexed/debug/classes-06260168b4d7e6691f50dec4d56579c844e50dfa.jar" />
+    </item>
+
+</items>

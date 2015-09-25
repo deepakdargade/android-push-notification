@@ -1,0 +1,13 @@
+<Page loaded="onPageLoaded">
+    <GridLayout rows="auto, *">
+        <StackLayout orientation="horizontal" row="0">
+            <Label text="{{ message }}" cssClass="message" id="message_label" textWrap="true"/>
+        </StackLayout>
+
+        <ListView items="{{ tasks }}" row="1">
+            <ListView.itemTemplate>
+                <TextField text="{{ name }}" />
+            </ListView.itemTemplate>
+        </ListView>
+    </GridLayout>
+</Page>

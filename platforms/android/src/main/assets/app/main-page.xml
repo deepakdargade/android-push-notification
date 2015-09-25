@@ -1,0 +1,21 @@
+<Page loaded="onPageLoaded">
+    <Page.actionBar>
+        <ActionBar>
+          <ActionBar.actionItems>
+            <ActionItem icon="res://ic_edit" title="action" tap="editProjectButtonTap" android.position="actionBar" />
+          </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar>
+
+    <GridLayout rows="auto, *">
+        <StackLayout orientation="horizontal" row="0">
+            <Label text="{{ message }}" cssClass="message" id="message_label" textWrap="true"/>
+        </StackLayout>
+
+        <ListView items="{{ tasks }}" row="1">
+            <ListView.itemTemplate>
+                <TextField text="{{ name }}" />
+            </ListView.itemTemplate>
+        </ListView>
+    </GridLayout>
+</Page>

@@ -1,0 +1,48 @@
+{
+  "name": "nativescript-push-notifications",
+  "version": "0.0.10",
+  "main": "push-plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/push-plugin.git"
+  },
+  "license": "Apache-2.0",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.0.0",
+      "android": "1.0.0"
+    }
+  },
+  "dependencies": {
+    "nativescript-plugin-google-play-services": "26.0.2"
+  },
+  "gitHead": "7689b4b7208cb534f31ce3c158b8858dad5ea89a",
+  "description": "The code for the Push Plugin for NativeScript.",
+  "bugs": {
+    "url": "https://github.com/NativeScript/push-plugin/issues"
+  },
+  "homepage": "https://github.com/NativeScript/push-plugin#readme",
+  "_id": "nativescript-push-notifications@0.0.10",
+  "scripts": {},
+  "_shasum": "f98fb4ed2dd2015e73cce9720c255a6b00b7989b",
+  "_from": "nativescript-push-notifications@*",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "everlive-system",
+    "email": "alexander.filipov@telerik.com"
+  },
+  "dist": {
+    "shasum": "f98fb4ed2dd2015e73cce9720c255a6b00b7989b",
+    "tarball": "http://registry.npmjs.org/nativescript-push-notifications/-/nativescript-push-notifications-0.0.10.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "everlive-system",
+      "email": "alexander.filipov@telerik.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-push-notifications/-/nativescript-push-notifications-0.0.10.tgz",
+  "readme": "ERROR: No README data found!"
+}
